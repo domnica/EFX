@@ -1,6 +1,6 @@
 # EFX
 The algorithm for finding EFX allocations can be run directly online at https://colab.research.google.com/drive/1IDj2yAgtYGf6y9vVtfYR_-kyuhwIl6zQ?usp=sharing. 
-The algorithm is described in the attached paper (EFX_paper.zip). 
+The pseudocode and experimental results are described in the attached paper (EFX_paper.zip). 
 
 This repository contains the following files.
 
