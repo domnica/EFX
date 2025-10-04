@@ -4,7 +4,7 @@ The pseudocode and experimental results are described in the attached paper (EFX
 
 This repository contains the following files.
 
-- The implementation of the algorithm in main_implementation.ipynb. The program generates a random instance of valuations and finds an EFX allocation for that instance. 
+- The implementation of the algorithm in main_implementation.ipynb. The program takes as input an instance of valuations (or generates a random one if none provided) and finds an EFX allocation for that instance. 
 
 - To visualize the runtime of the algorithm for n=15 agents and growing number of items (from m = 3 to m = 1050), run the accompanying notebook EFX-visualizations-15-agents.ipynb.
 - To visualize the runtime for m = 10,000 items and growing number of agents (from n = 4 to n = 100), run the notebook EFX_visualizations_10k_items.ipynb.
