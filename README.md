@@ -1,6 +1,6 @@
 # EFX
 The algorithm for finding EFX allocations can be run directly online at https://colab.research.google.com/drive/1IDj2yAgtYGf6y9vVtfYR_-kyuhwIl6zQ?usp=sharing. 
-The pseudocode and experimental results are described in the attached paper (EFX_paper.zip). 
+Go to the bottom of the file and provide n (the number of agents), m (the number of items), and v (the valuation matrix). Or type enter for each option to skip it and go with a default setting.
 
 This repository contains the following files.
 
