@@ -1,9 +1,4 @@
 # EFX
-The algorithm for finding EFX allocations can be run directly online at https://colab.research.google.com/drive/1IDj2yAgtYGf6y9vVtfYR_-kyuhwIl6zQ?usp=sharing. 
-Click run and then go to the bottom of the file and provide n (the number of agents), m (the number of items), and v (the valuation matrix). Or press enter for each option to skip it and go with a default setting.
-
-The associated paper is https://arxiv.org/abs/2510.05429.
-
 This repository contains the following files.
 
 - The implementation of the algorithm in main_implementation.ipynb. The program takes as input an instance of valuations (or generates a random one if none provided) and finds an EFX allocation for that instance. 
