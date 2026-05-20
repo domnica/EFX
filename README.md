@@ -1,4 +1,6 @@
 # EFX
+Implementation of the solver described in this paper: https://arxiv.org/abs/2510.05429.
+
 This repository contains the following files.
 
 - The implementation of the algorithm in main_implementation.ipynb. The program takes as input an instance of valuations (or generates a random one if none provided) and finds an EFX allocation for that instance. 
